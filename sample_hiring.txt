@@ -1,0 +1,6 @@
+We are looking for a Machine Learning Engineer with:
+
+- Strong Python and ML skills
+- Experience with Scikit-learn, TensorFlow
+- Understanding of NLP and LLMs
+- Experience deploying models

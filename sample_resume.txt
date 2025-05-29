@@ -1,0 +1,10 @@
+John Doe
+Email: john@example.com
+GitHub: github.com/johndoe
+
+Experience:
+- Interned at ABC Corp for 3 months.
+- Built small personal website.
+
+Skills:
+- Python, HTML
