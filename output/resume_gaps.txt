@@ -1,0 +1,1 @@
+API Error: HTTPSConnectionPool(host='api.metis.ai', port=443): Max retries exceeded with url: /v1/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F22C349450>: Failed to resolve 'api.metis.ai' ([Errno 11001] getaddrinfo failed)"))
