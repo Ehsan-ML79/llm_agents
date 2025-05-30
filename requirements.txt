@@ -1,6 +1,0 @@
-langchain
-langchain-openai
-python-dotenv
-requests
-beautifulsoup4
-pydantic

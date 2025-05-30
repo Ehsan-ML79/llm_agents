@@ -1,32 +1,29 @@
-RESUME_ANALYZER_PROMPT = """
-Analyze this resume and identify:
-1. Missing sections (Summary, Skills, Experience, Education, etc.)
-2. Weak points that need improvement
-3. Keywords missing for ATS optimization
-4. Overall professional score (1-10)
+
+IMPROVE_RESUME_TEMPLATE = """\
+You are a resume expert. Rewrite the following resume to improve clarity and alignment 
+with the role of {role}. Use a professional tone. Enhance formatting, but keep the same content.
 
 Resume:
-{resume_text}
-
-Provide structured analysis in JSON format.
+{resume}
 """
 
-RESUME_IMPROVER_PROMPT = """
-Based on this analysis, improve the following resume section:
-Section: {section}
-Current Content: {content}
-Issues: {issues}
+DETECT_GAPS_TEMPLATE = """\
+You are a career advisor. Compare the resume to the job description. 
+List clearly what skills/experience/certifications are missing in the resume:
 
-Provide improved version that is:
-- ATS-friendly
-- Professional
-- Quantified where possible
+Resume:
+{resume}
+
+Job Description:
+{job}
 """
 
-JOB_MATCHER_PROMPT = """
-Given this resume summary:
-{resume_summary}
+SUGGEST_SUBFIELDS_TEMPLATE = """\
+You are a learning guide. Given these missing skills: {skills}, 
+return for each skill a list of 3–5 key subtopics or subfields the candidate should learn.
+"""
 
-Find the best job titles and keywords to search for.
-Return top 5 job titles and key skills to search.
+INTERVIEW_Q_TEMPLATE = """\
+You are an interview coach. For companies: {companies}, hiring for role: {role}, 
+generate 5 tailored technical interview questions.
 """

@@ -1,0 +1,57 @@
+Certainly! Below is a revised version of the resume tailored for a Machine Learning Engineer role, with improved clarity and formatting:
+
+---
+
+**John Doe**  
+Email: john@example.com  
+GitHub: [github.com/johndoe](https://github.com/johndoe)  
+
+---
+
+**Location:**  
+Yaounde  
+
+---
+
+**Objective:**  
+Aspiring Machine Learning Engineer with foundational skills in Python and web development, seeking to apply my expertise in machine learning methodologies and software development to contribute to innovative projects.
+
+---
+
+**Experience:**
+
+**Internship at ABC Corp**  
+*Duration: 3 months*  
+- Gained hands-on experience in software development and data analysis.
+- Collaborated with a team to support various machine learning projects.
+
+**Personal Projects:**  
+- Developed a personal website using HTML to showcase projects and skills.
+- Engaged in continuous learning and application of Python programming for data-driven projects.
+
+---
+
+**Skills:**
+
+- **Programming Languages:** Python, HTML  
+- **Frameworks & Tools:** Familiar with machine learning libraries such as TensorFlow and scikit-learn.
+- **Soft Skills:** Problem-solving, analytical thinking, and effective communication.
+
+---
+
+**Education:**  
+- [Include relevant educational background here if applicable, such as degree obtained, institution, and graduation year.]
+
+---
+
+**Certifications:**  
+- [Include any relevant certifications here if applicable, such as Coursera Machine Learning by Andrew Ng, etc.]
+
+---
+
+**GitHub:**  
+Explore my work and contributions on GitHub: [github.com/johndoe](https://github.com/johndoe)
+
+---
+
+*Note: For further enhancement, consider adding sections like "Projects," "Education," and "Certifications" with more detailed information if applicable.*
